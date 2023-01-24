@@ -7,6 +7,7 @@
 |1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|🟡||
 |1655|[연구소](https://www.acmicpc.net/problem/14502)|🟡||
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
+|2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/14502)|🟡||
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/6593)|🟡||
