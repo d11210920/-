@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\김동하\desktop\깃\baekjun\알고리즘\2623\2623\소스.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김동하\desktop\깃\baekjun\알고리즘\2623\2623\소스.cpp(41): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김동하\desktop\깃\baekjun\알고리즘\2623\2623\소스.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김동하\desktop\깃\baekjun\알고리즘\2623\2623\소스.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2623.vcxproj -> C:\Users\김동하\Desktop\깃\Baekjun\알고리즘\2623\Debug\2623.exe
