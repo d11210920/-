@@ -9,7 +9,7 @@
 |1655|[연구소](https://www.acmicpc.net/problem/14502)|🟡||
 |1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|🟡||
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
-|1976|[여행 가](https://www.acmicpc.net/problem/1976)|🟡||
+|1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
 |2623|[음악프로그램](https://www.acmicpc.net/problem/2623)|🟡||
