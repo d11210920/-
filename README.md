@@ -5,6 +5,7 @@
 |---|---|---|---|
 |1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|🟡||
 |1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|🟡||
+|1261|[알고스팟](https://www.acmicpc.net/problem/1261)|🟡||
 |1516|[게임 개발](https://www.acmicpc.net/problem/1516)|🟡||
 |1655|[연구소](https://www.acmicpc.net/problem/14502)|🟡||
 |1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|🟡||
