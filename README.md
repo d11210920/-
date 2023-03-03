@@ -12,6 +12,7 @@
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
+|2170|[선 긋기](https://www.acmicpc.net/problem/2170)|🟡||
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
 |2623|[음악프로그램](https://www.acmicpc.net/problem/2623)|🟡||
 |4195|[친구 네트워크](https://www.acmicpc.net/problem/4195)|🟡||
