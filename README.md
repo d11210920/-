@@ -23,6 +23,7 @@
 |14567|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)|🟡||
 |14938|[서강 그라운드](https://www.acmicpc.net/problem/14938)|🟡||
 |15684|[사다리 조작](https://www.acmicpc.net/problem/15684)|🟡||
+|15787|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|🟡||
 |16202|[MST 게임](https://www.acmicpc.net/problem/16202)|🟡||
 |17268|[미팅의 저주](https://www.acmicpc.net/problem/17268)|🟡||
 |17298|[오큰수](https://www.acmicpc.net/problem/17298)|🟡||
