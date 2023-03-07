@@ -16,6 +16,7 @@
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
 |2623|[음악프로그램](https://www.acmicpc.net/problem/2623)|🟡||
 |2836|[수상 택시](https://www.acmicpc.net/problem/2836)|🟡||
+|3078|[좋은 친구](https://www.acmicpc.net/problem/3078)|🟡||
 |4195|[친구 네트워크](https://www.acmicpc.net/problem/4195)|🟡||
 |4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|🟡||
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/14502)|🟡||
