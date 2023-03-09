@@ -9,6 +9,7 @@
 |1516|[게임 개발](https://www.acmicpc.net/problem/1516)|🟡||
 |1655|[연구소](https://www.acmicpc.net/problem/14502)|🟡||
 |1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|🟡||
+|1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|🟡||
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
