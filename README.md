@@ -22,6 +22,7 @@
 |4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|🟡||
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/14502)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
+|9205|[맥주마시며 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/6593)|🟡||
 |13308|[주유소](https://www.acmicpc.net/problem/13308)|🟡||
 |14567|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)|🟡||
