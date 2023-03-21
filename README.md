@@ -24,6 +24,7 @@
 |4195|[친구 네트워크](https://www.acmicpc.net/problem/4195)|🟡||
 |4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|🟡||
 |4485|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|🟡||
+|5567|[결혼식](https://www.acmicpc.net/problem/5567)|🟡||
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/14502)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
 |9205|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
