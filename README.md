@@ -14,6 +14,7 @@
 |1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|🟡||
 |1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|🟡||
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
+|1940|[주몽](https://www.acmicpc.net/problem/1940)|🟡||
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2170|[선 긋기](https://www.acmicpc.net/problem/2170)|🟡||
