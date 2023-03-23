@@ -14,6 +14,7 @@
 |1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|🟡||
 |1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|🟡||
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
+|1940|[주몽](https://www.acmicpc.net/problem/1940)|🟡||
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2170|[선 긋기](https://www.acmicpc.net/problem/2170)|🟡||
@@ -36,5 +37,6 @@
 |15684|[사다리 조작](https://www.acmicpc.net/problem/15684)|🟡||
 |15787|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|🟡||
 |16202|[MST 게임](https://www.acmicpc.net/problem/16202)|🟡||
+|16954|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|🟡||
 |17268|[미팅의 저주](https://www.acmicpc.net/problem/17268)|🟡||
 |17298|[오큰수](https://www.acmicpc.net/problem/17298)|🟡||
