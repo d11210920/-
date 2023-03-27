@@ -27,6 +27,7 @@
 |4485|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|🟡||
 |5567|[결혼식](https://www.acmicpc.net/problem/5567)|🟡||
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/6593)|🟡||
+|7453|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|🟡||
 |7795|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
 |9205|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
