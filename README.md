@@ -26,11 +26,12 @@
 |4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)|🟡||
 |4485|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|🟡||
 |5567|[결혼식](https://www.acmicpc.net/problem/5567)|🟡||
-|6593|[상범 빌딩](https://www.acmicpc.net/problem/14502)|🟡||
+|6593|[상범 빌딩](https://www.acmicpc.net/problem/6593)|🟡||
+|7795|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
 |9205|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
 |12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|🟡||
-|12865|[평범한 배낭](https://www.acmicpc.net/problem/6593)|🟡||
+|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🟡||
 |13308|[주유소](https://www.acmicpc.net/problem/13308)|🟡||
 |14567|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)|🟡||
 |14938|[서강 그라운드](https://www.acmicpc.net/problem/14938)|🟡||
