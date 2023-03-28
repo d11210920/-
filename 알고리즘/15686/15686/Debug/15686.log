@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\김동하\desktop\깃\baekjun\알고리즘\15686\15686\소스.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김동하\desktop\깃\baekjun\알고리즘\15686\15686\소스.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  15686.vcxproj -> C:\Users\김동하\Desktop\깃\Baekjun\알고리즘\15686\Debug\15686.exe
