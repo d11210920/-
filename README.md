@@ -34,6 +34,7 @@
 |12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|🟡||
 |12738|[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)|🟡||
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🟡||
+|12893|[적의 적](https://www.acmicpc.net/problem/12893)|🟡||
 |13308|[주유소](https://www.acmicpc.net/problem/13308)|🟡||
 |14567|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)|🟡||
 |14938|[서강 그라운드](https://www.acmicpc.net/problem/14938)|🟡||
