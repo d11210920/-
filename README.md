@@ -36,6 +36,7 @@
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🟡||
 |12893|[적의 적](https://www.acmicpc.net/problem/12893)|🟡||
 |13308|[주유소](https://www.acmicpc.net/problem/13308)|🟡||
+|14425|[문자열 집합](https://www.acmicpc.net/problem/14425)|🟡||
 |14567|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)|🟡||
 |14938|[서강 그라운드](https://www.acmicpc.net/problem/14938)|🟡||
 |15683|[감시](https://www.acmicpc.net/problem/15683)|🟡||
