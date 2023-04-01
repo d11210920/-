@@ -16,6 +16,7 @@
 |1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)|🟡||
 |1940|[주몽](https://www.acmicpc.net/problem/1940)|🟡||
 |1976|[여행 가자](https://www.acmicpc.net/problem/1976)|🟡||
+|2042|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|🟡||
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2170|[선 긋기](https://www.acmicpc.net/problem/2170)|🟡||
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
