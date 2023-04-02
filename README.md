@@ -33,6 +33,7 @@
 |7795|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
 |9205|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
+|11505|[구간 곱 구하기](https://www.acmicpc.net/problem/11505)|🟡||
 |12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|🟡||
 |12738|[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)|🟡||
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🟡||
