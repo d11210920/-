@@ -21,6 +21,7 @@
 |2056|[작업](https://www.acmicpc.net/problem/2056)|🟡||
 |2170|[선 긋기](https://www.acmicpc.net/problem/2170)|🟡||
 |2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|🟡||
+|2607|[비슷한 단어](https://www.acmicpc.net/problem/2607)|🟡||
 |2623|[음악프로그램](https://www.acmicpc.net/problem/2623)|🟡||
 |2836|[수상 택시](https://www.acmicpc.net/problem/2836)|🟡||
 |3078|[좋은 친구](https://www.acmicpc.net/problem/3078)|🟡||
