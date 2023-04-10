@@ -1,4 +1,4 @@
-# 📌알고리즘
+# 📌알고리즘!
 
 
 |번호|문제|<img alt="C++" src="https://img.shields.io/badge/-C++-FA7343?style=flat-square&logo=C++&logoColor=white" />|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|
