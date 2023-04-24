@@ -6,6 +6,7 @@
 |1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|🟡||
 |1194|[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|🟡||
 |1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|🟡||
+|1208|[부분수열의 합 2](https://www.acmicpc.net/problem/1208)|🟡||
 |1238|[파티](https://www.acmicpc.net/problem/1238)|🟡||
 |1261|[알고스팟](https://www.acmicpc.net/problem/1261)|🟡||
 |1504|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|🟡||
