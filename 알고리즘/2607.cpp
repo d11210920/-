@@ -10,7 +10,6 @@ string str;
 vector<string> arr;
 int alpha[26] = {0,};
 int result = 0;
-
 void input(){
     cin >> n;
     cin >> str;
