@@ -4,6 +4,7 @@
 |번호|문제|<img alt="C++" src="https://img.shields.io/badge/-C++-FA7343?style=flat-square&logo=C++&logoColor=white" />|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|
 |---|---|---|---|
 |1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|🟡||
+|1107|[리모컨](https://www.acmicpc.net/problem/1107)|🟡||
 |1194|[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|🟡||
 |1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|🟡||
 |1208|[부분수열의 합 2](https://www.acmicpc.net/problem/1208)|🟡||
