@@ -35,6 +35,7 @@
 |6593|[상범 빌딩](https://www.acmicpc.net/problem/6593)|🟡||
 |7453|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|🟡||
 |7795|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|🟡||
+|8980|[택배](https://www.acmicpc.net/problem/8980)|🟡||
 |8983|[사냥꾼](https://www.acmicpc.net/problem/8983)|🟡||
 |9205|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
 |9251|[LCS](https://www.acmicpc.net/problem/9251)|🟡||
