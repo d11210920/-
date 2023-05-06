@@ -44,6 +44,7 @@
 |10881|[프로도의 선물 포장](https://www.acmicpc.net/problem/10881)|🟡||
 |11505|[구간 곱 구하기](https://www.acmicpc.net/problem/11505)|🟡||
 |12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|🟡||
+|12018|[Yonsei TOTO](https://www.acmicpc.net/problem/12018)|🟡||
 |12738|[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)|🟡||
 |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🟡||
 |12893|[적의 적](https://www.acmicpc.net/problem/12893)|🟡||
