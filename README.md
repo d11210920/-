@@ -28,6 +28,7 @@
 |2607|[비슷한 단어](https://www.acmicpc.net/problem/2607)|🟡||
 |2623|[음악프로그램](https://www.acmicpc.net/problem/2623)|🟡||
 |2836|[수상 택시](https://www.acmicpc.net/problem/2836)|🟡||
+|2887|[행성 터널](https://www.acmicpc.net/problem/2887)|🟡||
 |3078|[좋은 친구](https://www.acmicpc.net/problem/3078)|🟡||
 |4195|[친구 네트워크](https://www.acmicpc.net/problem/4195)|🟡||
 |4358|[생태학](https://www.acmicpc.net/problem/4358)|🟡||
